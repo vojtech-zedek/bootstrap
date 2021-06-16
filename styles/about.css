@@ -29,16 +29,21 @@
     color: rgb(61, 61, 233);
  }
 
- .odkazy{
-    margin-top: auto;
-    margin-bottom: auto;
+ body{
+    background-image: url("../img/back.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
 }
-.footerimage{
-    margin-top: 10px;
-}
-a.footerodkazy{
-    color: rgb(0, 202, 202)!important;
-}
-a.footerodkazy:hover{
-    color: aqua!important;
+
+main {
+    text-align: left;
+    margin: auto;
+    width: 70%;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.534);
+    padding-bottom: 40px;
 }

@@ -28,3 +28,13 @@
 .navbar-dark .navbar-nav .nav-link:hover {
     color: rgb(61, 61, 233);
  }
+
+ body{
+    background-image: url("../img/back.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
